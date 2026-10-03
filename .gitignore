@@ -426,3 +426,8 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# ---- Propias del proyecto ----
+# Respaldos locales de la base de datos: no se suben al repositorio
+database/respaldos/
+*.bak

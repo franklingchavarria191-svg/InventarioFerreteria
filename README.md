@@ -1,2 +1,0 @@
-# InventarioFerreteria
-Trabajo
